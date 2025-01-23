@@ -28,8 +28,6 @@ Here are some of the technologies and tools I work with:
 📈 GitHub Stats  
      https://github-readme-stats.vercel.app/api?username=Abduworabe&show_icons=true&theme=radical&count_private=true
 
-🌟 Featured Projects of 2050
-
 Here are a few of my favorite futuristic projects that I’m really proud of:
 
 🔹 [AI-Powered Personal Assistant](https://github.com/Abduworabe/ai-personal-assistant): This project is a highly advanced personal assistant that uses AI and natural language processing to help manage daily tasks and provide personalized recommendations. It’s like having a smart friend!
