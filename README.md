@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves diving into t
 
 📫 How to reach me:  
 📧 You can email me at [abdilkerimjuhar@gmail.com](mailto:abdilkerimjuhar@gmail.com) — I’d love to hear from you!  
-💬 You can also find me on Telegram: [@yjuharlig](https://t.me/yjuharlig). Let’s chat!
+💬 You can also find me on Telegram: [@Abdu_1_dev](https://t.me/Abdu_1_dev). Let’s chat!
 
 ⚡ Fun fact: I’m really interested in the intersection of technology and creativity. I love exploring how tech can enhance our everyday lives!
 
