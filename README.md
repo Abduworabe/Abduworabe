@@ -22,7 +22,7 @@
 
 📫 How to Reach Me  
 
-📧 Email: [abdilkerimjuhar@gmail.com](mailto:abdilkerimjuhar@gmail.com)  
+📧 Email: [abdilkerimjuhar61@gmail.com](mailto:abdilkerimjuhar@gmail.com)  
 📱 Telegram: [@Abdu_1_dev](https://t.me/Abdu_1_dev)  
 🔗 LinkedIn:[ Abdilkerim juhar](https://www.linkedin.com/in/abdilkerim-juhar-513b01360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
