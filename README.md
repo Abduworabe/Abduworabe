@@ -183,93 +183,145 @@
             <div class="grid">
                 <div class="project-card">
                     <h3>🛠 Building Now</h3>
-                    <p><strong>Intelligent E-Commerce Platform</strong> – Custom WordPress + WooCommerce ecosystem with AI-powered recommendations</p>
-                </div>
-                <div class="project-card">
-                    <h3>🧠 Mastering Next</h3>
-                    <p><strong>React Three Fiber & WebGL</strong> – Immersive 3D web experiences</p>
-                    <p><strong>Advanced AI/ML</strong> – Neural networks and computer vision</p>
-                </div>
-            </div>
-        </section>
+# 👋 Hi there, I'm Abdilkerim Juhar
 
-        <section class="section">
-            <h2>🛠️ Tech Arsenal</h2>
-            <div class="tech-grid">
-                <div class="tech-category">
-                    <h3>🤖 Languages</h3>
-                    <div class="tech-item">JavaScript</div>
-                    <div class="tech-item">TypeScript</div>
-                    <div class="tech-item">Python</div>
-                    <div class="tech-item">Java</div>
-                </div>
-                
-                <div class="tech-category">
-                    <h3>⚡ Frameworks</h3>
-                    <div class="tech-item">React</div>
-                    <div class="tech-item">Node.js</div>
-                    <div class="tech-item">Vue.js</div>
-                    <div class="tech-item">Angular</div>
-                    <div class="tech-item">Three.js</div>
-                </div>
-                
-                <div class="tech-category">
-                    <h3>🗃️ Databases</h3>
-                    <div class="tech-item">MySQL</div>
-                    <div class="tech-item">MongoDB</div>
-                    <div class="tech-item">PostgreSQL</div>
-                </div>
-                
-                <div class="tech-category">
-                    <h3>🚀 Specializations</h3>
-                    <div class="tech-item">AI/ML</div>
-                    <div class="tech-item">Blockchain</div>
-                    <div class="tech-item">AR/VR</div>
-                    <div class="tech-item">IoT</div>
-                    <div class="tech-item">Web3</div>
-                </div>
-            </div>
-        </section>
+🚀 **AI-First Developer | Futuristic Innovator | Full-Stack Engineer**
 
-        <section class="section">
-            <h2>🌟 Innovation Portfolio</h2>
-            <div class="grid">
-                <div class="project-card">
-                    <h3>🤖 Intelligent Systems</h3>
-                    <p>NLP-Powered Assistant with predictive task management</p>
-                    <p>AI-Driven Analytics for real-time insights</p>
-                </div>
-                <div class="project-card">
-                    <h3>🏠 Smart Environments</h3>
-                    <p>IoT Home Automation with energy optimization</p>
-                    <p>AR Spatial Computing experiences</p>
-                </div>
-                <div class="project-card">
-                    <h3>🔗 Decentralized Future</h3>
-                    <p>Blockchain Voting systems</p>
-                    <p>Web3 Applications</p>
-                </div>
-            </div>
-        </section>
+I'm passionate about building intelligent systems that bridge the digital and physical worlds through cutting-edge technology, AI, and immersive experiences. I believe in solving real-world problems through the fusion of technology and creativity.
 
-        <section class="section">
-            <h2>📫 Connect With Me</h2>
-            <div class="contact-links">
-                <a href="mailto:abdilkerimjuhar61@gmail.com" class="contact-link">
-                    📧 Email
-                </a>
-                <a href="https://t.me/Abdu_1_dev" class="contact-link">
-                    📱 Telegram
-                </a>
-                <a href="https://linkedin.com/in/abdilkerim-juhar" class="contact-link">
-                    🔗 LinkedIn
-                </a>
-            </div>
-        </section>
+---
 
-        <div class="fun-fact">
-            🔮 I believe technology + creativity can solve real-world problems—let's make it happen!
-        </div>
-    </div>
-</body>
-</html>
+## 🛠️ Tech Stack & Skills
+
+### 🤖 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### ⚡ Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+### 🗃️ Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🚀 Futuristic Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+  <img src="https://img.shields.io/badge/AR/VR-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-00B0FF?style=for-the-badge&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Currently Building & Learning
+
+### 🛠️ **Building Now**
+- **✨ Intelligent E-Commerce Platform** – Custom WordPress + WooCommerce with AI-powered recommendations
+- **🤖 NLP Assistant** – Context-aware automation with predictive capabilities
+
+### 🧠 **Mastering Next**
+- **🌐 React Three Fiber** – Immersive 3D web experiences
+- **⚡ Advanced AI/ML** – Neural networks & computer vision applications
+- **🔗 Blockchain Development** – Smart contracts & decentralized applications
+
+---
+
+## 📊 GitHub Stats
+
+![Abdilkerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdilkerim&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdilkerim&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🔥 Development Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdilkerim&theme=radical&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdilkerim&theme=radical&no-frame=true&margin-w=5&margin-h=5&row=2&column=4)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdilkerim&theme=radical&hide_border=true&area=true)
+
+---
+
+## 🌐 Featured Projects
+
+### 🤖 Intelligent Systems
+- **NLP-Powered Assistant** – Context-aware automation with predictive task management
+- **AI-Driven Analytics** – Real-time data processing and intelligent insights
+
+### 🏠 Smart Environments  
+- **IoT Home Automation** – Energy-optimized smart living with predictive security
+- **AR Spatial Computing** – Interactive 3D environments for enhanced experiences
+
+### 🔗 Decentralized Future
+- **Blockchain Voting** – Tamper-proof, transparent election systems
+- **Web3 Applications** – Next-generation decentralized platforms
+
+➡️ Explore more in my [repositories](https://github.com/abdilkerim?tab=repositories)!
+
+---
+
+## 🤝 Collaboration Matrix
+
+### 🖥️ **Seeking Synergy In:**
+- **Full-Stack Innovation** – React/Vue + Node.js ecosystems
+- **AI/ML Breakthroughs** – From concept to deployment
+- **Immersive Web Experiences** – 3D, AR, and interactive simulations
+
+### 🧑‍🎓 **Growth Trajectory**
+- Eager to grow in software development & AI
+- Open to guidance from experienced developers
+- Passionate about futuristic technology applications
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:abdilkerimjuhar61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Abdu_1_dev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdilkerim-juhar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abdilkerim&style=for-the-badge&color=blueviolet)
+
+---
+
+⭐️ **"Technology + creativity can solve real-world problems—let's make it happen!"**
