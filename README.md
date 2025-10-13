@@ -88,18 +88,8 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdilkerim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdilkerim&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdilkerim&theme=radical&hide_border=true)
-
-</div>
-
+📊 GitHub Analytics
+<div align="center"><!-- Fixed GitHub Stats --><img src="https://github-readme-stats.vercel.app/api?username=abdilkerim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><!-- Fixed Top Languages --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilkerim&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /><!-- Fixed GitHub Streak --><img src="https://streak-stats.demolab.com/?user=abdilkerim&theme=radical&hide_border=true" alt="GitHub Streak" /></div>
 ---
 
 ## 🏆 GitHub Trophies
