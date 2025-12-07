@@ -1,5 +1,5 @@
 # 👨‍💻 Software Engineer | Full-Stack Developer & 3D Web Specialist
-
+https://expo.dev/artifacts/eas/tTciEoVCdnGwYmKHwRWW9c.apk
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Abdilkerim%20Juhar&fontSize=40&animation=fadeIn)
